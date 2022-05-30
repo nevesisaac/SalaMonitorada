@@ -13,7 +13,7 @@ Haverá um buzzer para aviso interno de instabilidade no laboratório.
 
 
 Alocação de portas
-Digitais: 4 (SCK, MISO, MOSI e SS do RFID) + 1 (BUZZER) = 5
+Digitais: 4 (SCK, MISO, MOSI e SS do RFID) + 1 (BUZZER)  + 2 (LEDs)= 7
 Analógicas: 1 (DHT 22) 
 
 ![image](https://user-images.githubusercontent.com/57996705/171030034-69b4eb00-5b88-455c-b476-42b1a32c3844.png)
